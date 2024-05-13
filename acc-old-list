@@ -1,6 +1,6 @@
 # Name: Pihole Old ACC Blocklist
 # URL: https://github.com/matchlock91/pihole-blocklist/
-# Based on: https://github.com/Ruddernation-Designs/Adobe-URL-Block-List/blob/master/hosts
+# Source: https://github.com/Ruddernation-Designs/Adobe-URL-Block-List/blob/master/hosts
 # Last update: 13 May, 2024
 
 192.150.14.69

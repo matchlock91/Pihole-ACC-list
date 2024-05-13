@@ -1,5 +1,6 @@
 # Name: Pihole ACC Blocklist
 # URL: https://github.com/matchlock91/pihole-blocklist/
+# Source: https://github.com/ignaciocastro/adobe-is-dumb/blob/main/pihole.txt
 # Last update: 13 May, 2024
 
 ic.adobe.io

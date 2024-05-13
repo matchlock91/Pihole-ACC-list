@@ -1,1 +1,1 @@
-# Pihole-ACC-list
+# PiHole Blocklist
